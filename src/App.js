@@ -10,7 +10,7 @@ export default function App() {
     <main id="container">
       <section className="card">
         <article className="equilibrium-box">
-          <img src={equilibrium} />
+          <img src={equilibrium} alt="equilibrium photo" />
           <div className="eye-icon">
             <svg width="48" height="48" xmlns="http://www.w3.org/2000/svg">
               <g fill="none" fill-rule="evenodd">
